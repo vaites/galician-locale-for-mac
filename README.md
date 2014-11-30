@@ -1,12 +1,12 @@
 Galician locale for Mac OS X
 ============================
 
-Provides locale definitions for Galician language on Mac OS X based on native es_ES locale. It enables `gl_ES.UTF-8` locale for PHP and other languages.
+Provides locale definitions for Galician language on Mac OS X based on native spanish locale. It enables `gl_ES.UTF-8` locale for PHP and other languages.
 
 Install
 -------
 
-This package provides an `install.sh` file. You can also paste this line at a Terminal prompt:
+Download the ZIP package, extract it and double click on `install.sh` or copy all `gl_ES` folders to `/usr/share/locale`. You can also paste this line at a Terminal prompt:
 
     curl -fsSL https://raw.githubusercontent.com/vaites/galician-locale-for-mac/master/install.sh | bash
 
