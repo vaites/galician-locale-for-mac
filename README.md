@@ -1,7 +1,7 @@
 Galician locale for Mac OS X
 ============================
 
-Provides locale definitions for Galician language on Mac OS X based on native spanish locale. It enables `gl_ES.UTF-8` locale for PHP and other languages.
+Provides locale definitions for Galician language on Mac OS X based on native spanish locale. It enables `gl_ES.UTF-8` locale for PHP and other programming languages.
 
 Install
 -------
